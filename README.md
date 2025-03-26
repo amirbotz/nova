@@ -3,16 +3,6 @@
   ![Nova](logo.png)
   <h1>Nova ☄️</h1>
   <p>
-    <a href="https://discord.gg/s9kUZw7CqP">
-      <img src="https://img.shields.io/discord/1328474718193586226?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-    </a>
-    <a href="https://github.com/ambr0sial/nova/stargazers">
-      <img src="https://img.shields.io/github/stars/ambr0sial/nova?color=%23A855F7&logo=github&style=for-the-badge" alt="Stars">
-    </a>
-    <a href="https://ko-fi.com/ambrosial">
-      <img src="https://img.shields.io/badge/Support-Nova-%23A855F7?style=for-the-badge&logo=kofi&logoColor=white" alt="Support">
-    </a>
-  </p>
   <h3>✨ Click, watch, enjoy. ✨</h3>
   
   <p><strong>Nova itself is ad-free, but it happens that providers insert their own ads. For the best experience, I recommend using <a href="https://ublockorigin.com/">uBlock Origin</a>.</strong></p>
