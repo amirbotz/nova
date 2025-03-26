@@ -71,9 +71,6 @@ Filtered search for better content discovery
 </table>
 </div>
 
-## 🌐 Alternative Domains
-
-If the main domain is unavailable, visit [this website](https://nova-domains.github.io) to see alternative domains.
 
 ## 🤝 Contributing
 
