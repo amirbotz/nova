@@ -80,21 +80,7 @@ Contributions are always welcome! Feel free to open pull requests to improve Nov
 
 You can freely host this website yourself. All we ask is that you provide proper credits by linking to this repository.
 
-## ⭐ Star History
 
-<div align="center">
-<a href="https://star-history.com/#amirbotz/nova&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline" />
-  </picture>
-</a>
-</div>
-
-<div align="center">
-  
----
   
 <p>Made with ❤️ by <a href="https://github.com/amirbotz">abbotz</a></p>
 <p>
