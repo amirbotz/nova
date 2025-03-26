@@ -86,11 +86,11 @@ You can freely host this website yourself. All we ask is that you provide proper
 ## ⭐ Star History
 
 <div align="center">
-<a href="https://star-history.com/#ambr0sial/nova&Timeline">
+<a href="https://star-history.com/#amirbotz/nova&Timeline">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ambr0sial/nova&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ambr0sial/nova&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ambr0sial/nova&type=Timeline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=amirbotz/nova&type=Timeline" />
   </picture>
 </a>
 </div>
@@ -99,7 +99,7 @@ You can freely host this website yourself. All we ask is that you provide proper
   
 ---
   
-<p>Made with ❤️ by <a href="https://github.com/ambr0sial">ambr0sial</a></p>
+<p>Made with ❤️ by <a href="https://github.com/amirbotz">abbotz</a></p>
 <p>
   <a href="mailto:contact.novastream@gmail.com">contact.novastream@gmail.com</a>
 </p>
